@@ -12,6 +12,7 @@ h1{
 .sector-two{
     background-image: url(img/top-banner.png);
     background-repeat: no-repeat;
+    margin-bottom: 100px;
 }
 .link-btn{
     text-decoration: none;
@@ -29,4 +30,9 @@ h1{
     }
 .half img{
     width: 70%;
+}
+#two{
+    background-image: url(img/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }

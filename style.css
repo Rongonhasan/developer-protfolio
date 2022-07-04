@@ -36,3 +36,23 @@ h1{
     background-repeat: no-repeat;
     background-position: right;
 }
+#color-two{
+    color: orangered;
+}
+.dep{
+    text-align: center;
+    color: chocolate;
+}
+#shadow{
+    box-sizing: border-box;
+    margin-left: 5%;
+   padding-right: 10px;
+    padding-left: 10px;
+    box-shadow: 10px 10px 40px gray;
+}
+footer{
+    text-align: center;
+}
+
+}
+

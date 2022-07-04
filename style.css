@@ -1,0 +1,32 @@
+body{
+    font-family: 'Oswald', sans-serif;
+    margin: 0%;
+}
+span{
+    color: crimson;
+}
+h1{
+    font-style: italic;
+    
+}
+.sector-two{
+    background-image: url(img/top-banner.png);
+    background-repeat: no-repeat;
+}
+.link-btn{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 10px 40px;
+    border-radius: 10px;
+    color: whitesmoke;
+    font-weight: 600;
+}
+.sector-two{
+    display:flex;}
+    .half{
+        width: 50%;
+        padding-left: 5%;
+    }
+.half img{
+    width: 70%;
+}
